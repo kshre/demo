@@ -7,7 +7,7 @@
   "classes": [
     { "id": 1, "title": "Class 1", "text": "Class 1 Information ", "classDateTime": "2018-12-10T13:45:00.000Z", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5b"},
     { "id": 2, "title": "Class 2", "text": "Class 2 Details ", "classDateTime": "2018-12-10T13:45:00.000Z", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5b"},
-    { "id": 3, "title": "Class 3", "text": "Class 3 Informationen", "classDateTime": "2018-12-10T13:45:00.000Z", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5b"},
+    { "id": 3, "title": "Class 3", "text": "Class 3 Informationen", "classDateTime": "2018-12-10T13:45:00.000Z", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5b"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
