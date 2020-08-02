@@ -1,8 +1,13 @@
 {
-  "posts": [
+  "announcements": [
     { "id": 1, "title": "Welcome!", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5b"},
     { "id": 2, "title": "Let us get started", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5c"},
     { "id": 3, "title": "Work work work", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "11x"}
+  ],
+  "classes": [
+    { "id": 1, "title": "Class 1", "text": "Class 1 Information 🔥", "classDateTime": "2018-12-10T13:45:00.000Z", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5b"},
+    { "id": 2, "title": "Class 2", "text": "Class 2 Details 🔥", "classDateTime": "2018-12-10T13:45:00.000Z", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5b"},
+    { "id": 3, "title": "Class 3", "text": "Class 3 Informationen🔥", "classDateTime": "2018-12-10T13:45:00.000Z", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5b"},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
