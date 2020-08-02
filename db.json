@@ -1,8 +1,8 @@
 {
   "posts": [
     { "id": 1, "title": "Post 1", "dateCreated": 1596332580, "dateModified": 1596332580, "text": "yes yes yes" },
-    { "id": 2, "title": "Post 2", "dateCreated": 1596332580, "dateModified": 1596332580, "text": "yes yes yes" },
-    { "id": 3, "title": "Post 3", "dateCreated": 1596332580, "dateModified": 1596332580, "text": "yes yes yes" }
+    { "id": 2, "title": "Post 2", "dateCreated": 1596332581, "dateModified": 1596332581, "text": "what yes" },
+    { "id": 3, "title": "Post 3", "dateCreated": 1596332582, "dateModified": 1596332582, "text": "yes what" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
