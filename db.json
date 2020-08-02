@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "text": "111111111", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "author": "x11x"},
-    { "id": 2, "title": "Post 2", "text": "222222222", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "author": "x11x" },
-    { "id": 3, "title": "Post 3", "text": "333333333", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "author": "x11x" }
+    { "id": 1, "title": "Post 1", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "author": "x11x"},
+    { "id": 2, "title": "Post 2", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "author": "x11x" },
+    { "id": 3, "title": "Post 3", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "author": "x11x" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
