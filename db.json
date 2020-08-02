@@ -1,7 +1,7 @@
 {
   "announcements": [
-    { "id": 1, "title": "Welcome!", "text": "Lorem ipsum dolor sit amet", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5b"},
-    { "id": 2, "title": "Let us get started", "text": "Lorem ipsum dolor sit amet, c", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5c"},
+    { "id": 1, "title": "Welcome!", "text": "Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5b"},
+    { "id": 2, "title": "Let us get started", "text": "Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello ", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5c"},
     { "id": 3, "title": "Work work work", "text": "Lorem ipsum dolor sit ame", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "11x"}
   ],
   "classes": [
