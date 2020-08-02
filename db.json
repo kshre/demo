@@ -11,6 +11,6 @@
   "users": [
     { "id": "5b", "name": "rohit", "email": "rohit@gmail.com" },
     { "id": "5c", "name": "shahrukh", "email": "srk@gmail.com" },
-    { "id": "11x", "name": "amitabh", "email": "ab@gmail.com" },
-  ],
+    { "id": "11x", "name": "amitabh", "email": "ab@gmail.com" }
+  ]
 }
