@@ -1,4 +1,7 @@
 {
+  "home": {
+    "title": "German 4 Week Crash Course", "text": "Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5b"
+  },
   "announcements": [
     { "id": 1, "title": "Welcome!", "text": "Lorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit ametLorem ipsum dolor sit amet", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5b"},
     { "id": 2, "title": "Let us get started", "text": "Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello Lorem ipsum dolor sit amet hello ", "dateCreated": "2018-12-10T13:45:00.000Z", "dateModified": "2018-12-10T13:45:00.000Z", "userId": "5c"},
